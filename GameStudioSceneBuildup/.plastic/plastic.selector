@@ -1,0 +1,4 @@
+repository "GameStudioSceneBuildup/GameStudioSceneBuildup@2475878795570@cloud"
+  path "/"
+    br "/main"
+    co "/main"
